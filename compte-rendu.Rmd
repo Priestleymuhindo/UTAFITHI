@@ -6,20 +6,22 @@ output:
     highlight: kate
 ---
 
+# COMPTE-RENDU
 
-```{r setup, include=FALSE}
-library(knitr)
-library(rmdformats)
+## Lieu et date
 
-## Global options
-options(max.print="75")
-opts_chunk$set(echo=FALSE,
-	             cache=TRUE,
-               prompt=FALSE,
-               tidy=TRUE,
-               comment=NA,
-               message=FALSE,
-               warning=FALSE)
-opts_knit$set(width=75)
-```
+**Lieu :** *Buvette Sous Les Palmiers*\
+**Date :** *04 Septembre*
 
+**Participants:**
+
+1.  ANGE LIBONGI BAMBO PATRICK
+2.  ORNELA KAVUGHO
+3.  PRIESTLEY MUHINDO MBUGHEKI
+4.  RICHARD KAMBALE MAKELELE
+
+##  Ordre du jour: 
+
+1.   Feedback de la mission avec les incubateurs
+
+2.  Divers
